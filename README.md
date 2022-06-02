@@ -1,6 +1,5 @@
 👋 Hi, I’m @RaviNakhate
 
-Here are some ideas to get you started:
 - 💻 I'm frontend developer
 - 🌱 I’m currently learning full stack development.
 - 😄 I’m interested in problem solving, web, app and more
