@@ -1,6 +1,7 @@
 # 👋 Hi, I’m @RaviNakhate
-
-- 💻 I'm Full-stack Developer.
+Experienced Software Developer of 1.2 years of experience, knowledge of ReactJs, NodeJs, ExpressJs, MongoDb, AWS, Power Bi, SQL, Excel and GitHub version control with a proven track record in collaborative web development projects.
+- 💻 I'm Software Developer Intern of 1.2 years of experience.
+- 💻 Knowledge of ReactJs, NodeJs, ExpressJs, MongoDb, AWS, Power Bi, SQL, Excel and GitHub version control
 - 😄 I’m interested in team work, problem solving, web, app and more
 - 💞️ I’m looking to collaborate on open source project 
 - 📫 How to reach me : [ravi165528@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ravi165528@gmail.com)
@@ -10,7 +11,6 @@
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 
 ![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -20,10 +20,10 @@
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-![image](https://github.com/RaviNakhate/RaviNakhate/assets/105623079/df486051-d940-4710-9931-d993a7d15599)
-![image](https://github.com/RaviNakhate/RaviNakhate/assets/105623079/d171c2c2-a8c9-416a-a634-f1c5b271a841)
-![image](https://github.com/RaviNakhate/RaviNakhate/assets/105623079/0fc8ed47-c491-441d-91eb-ff2fdb1b7a3e)
-![image](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 📲 Connect with me
 
