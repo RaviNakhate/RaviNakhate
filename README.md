@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @RaviNakhate
-Experienced Software Developer of 1.2 years of experience, knowledge of ReactJs, NodeJs, ExpressJs, MongoDb, AWS, Power Bi, SQL, Excel and GitHub version control with a proven track record in collaborative web development projects.
+Software Developer Intern with around 1.2 years of experience, knowledge of ReactJs, NodeJs, ExpressJs, MongoDb, AWS, Power Bi, SQL, Excel and GitHub version control with a proven track record in collaborative web development projects.
 - 💻 I'm Software Developer Intern of 1.2 years of experience.
 - 💻 Knowledge of ReactJs, NodeJs, ExpressJs, MongoDb, AWS, Power Bi, SQL, Excel and GitHub version control
 - 😄 I’m interested in team work, problem solving, web, app and more
