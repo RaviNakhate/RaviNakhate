@@ -3,7 +3,7 @@ Software Developer Intern with around 1.2 years of experience, knowledge of Powe
 Actively looking for opportunities in Data Analyst where I can contribute my technical skills and continue to learn and grow in this field.
 
 - 💻 I'm Software Developer Intern of 1.2 years of experience.
-- 💻 Knowledge of Power BI, Python, SQL, Excel, ReactJs, NodeJs, ExpressJs, MongoDb, AWS and GitHub version control
+- 💻 Knowledge of Power BI, Python, Numpy, Pandas, Matplotlib, SQL, Excel, ReactJs, NodeJs, ExpressJs, MongoDb, AWS and GitHub version control
 - 😄 I’m interested in team work, problem solving, web, app and more
 - 💞️ I’m looking to collaborate on open source project 
 - 📫 How to reach me : [ravi165528@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ravi165528@gmail.com)
