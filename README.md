@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @RaviNakhate
-Software Developer Intern with around 1.2 years of experience, knowledge of Power BI, Python, SQL, Excel, ReactJs, NodeJs, ExpressJs, MongoDb, AWS and GitHub version control with a proven track record in collaborative web development projects.
+Software Developer Intern with around 1.2 years of experience, knowledge of Power BI, Python, Numpy, Pandas, Matplotlib, SQL, Excel, ReactJs, NodeJs, ExpressJs, MongoDb and GitHub version control with a proven track record in collaborative web development projects.
 Actively looking for opportunities in Data Analyst where I can contribute my technical skills and continue to learn and grow in this field.
 
 - 💻 I'm Software Developer Intern of 1.2 years of experience.
